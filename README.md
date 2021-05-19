@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m @Joseelmax-00
+# 👋 Hi, I’m @Joseelmax-00
 - 
 
 👀 I’m a Software Developer and Computer Engineering student from Uruguay. I have one year of experience working with Python, usually developing automation software with Selenium. 
