@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Joseelmax-00
 
 
-👀 I’m a Software Developer and Computer Engineering student from Uruguay. I have two years of experience working with Python, usually developing automation software with Selenium. 
+👀 I’m a Software Developer and Computer Engineering student from Uruguay. I have three years of experience working with Python, usually developing automation software with Selenium. 
 
 📚 I'm interested in all things programming, cryptocurrency, and psychology. I'm also a gamer! 
 
@@ -12,8 +12,6 @@
 - Selenium
 - Git
 - Briefly with VBA (Visual Basic for applications)
-
-🌱 I’m currently learning C++, Solidity, MQL4 and GUI creation on Python.
 
 📫 How to reach me? Send an email to josemaq00@gmail.com
 
