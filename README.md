@@ -16,7 +16,7 @@ web automation, database management and app development in general.
 - Web development (HTML, CSS, Javascript)
 - I have many other computer skills, I'm decent with image manipulation, good with Excel or Google spreadsheets, can create SVGs and web graphic design in general with Figma.
 - Decent linux experience
-- 
+
 📫 How to reach me? Send an email to josemaq00@gmail.com
 
 <!---
